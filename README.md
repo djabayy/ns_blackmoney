@@ -16,4 +16,6 @@ Video: https://discord.gg/Jwb2pnXaJE <br>
 Picture: https://imgur.com/gallery/2EHhEI2
 
 ## Support
-Either create a issue on github
+Create an issue on github.
+
+Discord: https://discord.gg/HaYe9kNDHK
