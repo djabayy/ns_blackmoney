@@ -16,4 +16,4 @@ Video: https://discord.gg/Jwb2pnXaJE <br>
 Picture: https://imgur.com/gallery/2EHhEI2
 
 ## Support
-Either create a issue on github or ask me in discord for help. My ID: nightstudios#0001
+Either create a issue on github
