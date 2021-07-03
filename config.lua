@@ -32,5 +32,12 @@ Config.Translations = {
         ['not_enough_money'] = "You dont have that much money!",
         ['money_wash_1'] = "You've washed ",
         ['money_wash_2'] = "."
-    }
+    },
+    ['fr'] = {
+        ['help_text'] = "Appuyez sur ~INPUT_PICKUP~ pour entrer dans le black market.",
+        ['invalid_amount'] = "Veuillez saisir un montant valide !",
+        ['not_enough_money'] = "Vous n'avez pas assez d'argent sur vous !",
+        ['money_wash_1'] = "vous avez blanchi $",
+        ['money_wash_2'] = " blanchi."
+    },
 }
